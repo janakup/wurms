@@ -5,9 +5,7 @@ now_ohnems = now.replace(microsecond=0)
 
 print(
     "Hallo, mein Wurms! <br><br>Heute schreiben wir folgendes Datum:",
-    str(now_ohnems) +
-    "<br>(Plus 2 Stunden, weil Zeitzonen ein Kaka sind und ich einfach nicht weiß, wie ich die ändern kann, aber in der folgenden Kalkulation ist sie integriert. <br>Keine Sorge, das Raupi hat an alles gedacht!)"
-)
+    str(now_ohnems))
 
 wurmizeit = datetime.datetime(2022, 8, 27, 10, 00, 00)
 untilwurmi = wurmizeit - now_ohnems
