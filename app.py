@@ -7,7 +7,7 @@ print(
     "Hallo, mein Wurms! <br><br>Heute schreiben wir folgendes Datum:",
     str(now_ohnems))
 
-wurmizeit = datetime.datetime(2022, 8, 27, 10, 00, 00)
+wurmizeit = datetime.datetime(2022, 8, 27, 12, 00, 00)
 untilwurmi = wurmizeit - now_ohnems
 #print(str(untilwurmi))
 
@@ -32,5 +32,5 @@ mins = mins * 60
 #print(mins)
 
 print(
-    f"<br>Und jetzt kannst du dich endlich über mein vollbrachtes Werk freuen!<br>Juhuuuuuu!!! <br> Der Countdown sagt: <br>Nur mehr {int(wurmidays)} Tage und  <br>{int(hours)} Stunden und <br>{int(mins)} Minuten <br>bis zur großen Wurmi-Reunion am 27.08. um (circa 10:00)! <br><br><3 <3 <3"
+    f"<br>Und jetzt kannst du dich endlich über mein vollbrachtes Werk freuen!<br>Juhuuuuuu!!! <br> Der Countdown sagt: <br>Nur mehr {int(wurmidays)} Tage und  <br>{int(hours)} Stunden und <br>{int(mins)} Minuten <br>bis zur großen Wurmi-Reunion am 27.08. um (circa 12:00)! <br><br><3 <3 <3"
 )
