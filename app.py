@@ -14,7 +14,7 @@ untilwurmi = wurmizeit - now_ohnems
 #print(str(untilwurmi))
 
 #total t
-tsecs = untilwurmi.total_seconds() - 7200
+tsecs = untilwurmi.total_seconds()
 #print(tsecs)
 
 #total
