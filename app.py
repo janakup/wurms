@@ -32,5 +32,5 @@ mins = mins * 60
 #print(mins)
 
 print(
-    f"<br>Also kannst du dich jetzt endlich über mein vollbrachtes Werk freuen!<br>Juhuuuuuu!!! <br> Der Countdown sagt: <br>Nur mehr {int(wurmidays)} Tage und  <br>{int(hours)} Stunden und <br>{int(mins)} Minuten <br>bis zur großen Wurmi-Reunion! <br><br><3 <3 <3"
+    f"<br>Und jetzt kannst du dich endlich über mein vollbrachtes Werk freuen!<br>Juhuuuuuu!!! <br> Der Countdown sagt: <br>Nur mehr {int(wurmidays)} Tage und  <br>{int(hours)} Stunden und <br>{int(mins)} Minuten <br>bis zur großen Wurmi-Reunion am 27.08. um (circa 10:00)! <br><br><3 <3 <3"
 )
